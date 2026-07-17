@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_STABILIZER_원커맨드_가이드.md",
+                "file": "TODO.PJT/TODO_2026-07-05_열혈C_Chapter09_함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_STABILIZER_원커맨드_가이드"
+              "title": "TODO_2026-07-05_열혈C_Chapter09_함수"
             }
           }
         ]
@@ -185,6 +185,26 @@
   },
   "active": "a31be232c5f8eda3",
   "lastOpenFiles": [
+    "TODO.PJT/_TODO_TEMPLATE.md",
+    "TODO.PJT/TODO_2026-07-05_열혈C_Chapter09_함수.md",
+    "00_STABILIZER_원커맨드_가이드.md",
+    "RST.PJT/_RST_TEMPLATE.md",
+    "RST.PJT/2026-07-13_일일_행동_분석.md",
+    "RE.PJT/_RE_TEMPLATE.md",
+    "RE.PJT/_INDEX.md",
+    "LNG.PJT/_INDEX.md",
+    "LNG.PJT/_LNG_TEMPLATE.md",
+    "EXP.DATA/_INDEX.md",
+    "EXP.DATA/_EXP_TEMPLATE.md",
+    "RST.PJT/2026-07-16_일일_행동_분석.md",
+    "EXP.DATA/게임개발/Project-ZFC/맵_생성_계약과_소유권_설계_2일차.md",
+    "DAY.PJT/2026-07-16/보고서/REPORT.md",
+    "DAY.PJT/2026-07-16/계획서/TODO/TODO_001_Project-ZFC_맵_생성_계약과_소유권.md",
+    "DAY.PJT/2026-07-16/계획서/PLAN.md",
+    "DAY.PJT/2026-07-16/계획서/TODO",
+    "DAY.PJT/2026-07-16/보고서",
+    "DAY.PJT/2026-07-16/계획서",
+    "DAY.PJT/2026-07-16",
     "AJG_DAILY_STABILIZER_전달용_구조_가이드.docx",
     "EXP.DATA/C프로그래밍/윤성우의 열혈 C 프로그래밍/Chapter09_함수_1일차.md"
   ]
