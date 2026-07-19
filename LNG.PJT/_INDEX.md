@@ -4,4 +4,4 @@
 
 | 이름 | 목표 기간 | 상태 | 다음 점검일 | 연결 TODO |
 |---|---|---|---|---|
-|  |  | Todo |  |  |
+| Project-Ruin (이전 RuinConservator) | 장기 / 종료일 미정 | 진행 중 | 2026-07-25 | `.meta` 정책, Inventory 회귀 검증, Commit 분리, 아이콘 연결 |
