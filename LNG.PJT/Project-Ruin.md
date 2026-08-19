@@ -23,8 +23,9 @@
 |---|---|---|---|---|---|
 | 1 | 2026-07 | GitHub 협업 가이드, Branch 보호, Issue·PR Template과 팀 연습 완료 | 진행 중 | GitHub 협업 규칙 실제 적용 | `DAY.PJT/2026-07-15`, 후속 설정 작업 |
 | 2 | 2026-07 | Dialogue·Quest·Inventory CSV 제작 흐름과 Unity 회귀 검증 완료 | 진행 중 | Inventory CSV 전환 마감 | `DAY.PJT/2026-07-18`, `TODO.PJT/TODO_2026-07-18_Project-Ruin_Inventory_CSV_Unity_회귀검증.md` |
-| 3 | 미정 | 핵심 게임 루프와 저장·로드를 플레이 가능한 단위로 통합 | 미완료 | 핵심 시스템 통합 | 추후 생성 |
-| 4 | 미정 | 팀원이 새 환경에서 Clone 후 실행·검증·콘텐츠 추가 가능 | 미완료 | 협업 및 배포 준비 | `.meta` 정책과 전체 참조 검증 |
+| 3 | 2026-07 ~ 미정 | 유적 재건 기반과 30% 복원 수직 슬라이스 완료 | 진행 중 | 유적 재건 Unity 검증 및 기획 확정 | `DAY.PJT/2026-07-22`, `TODO.PJT/TODO_2026-07-22_Project-Ruin_유적_재건_Unity_검증.md` |
+| 4 | 미정 | 핵심 게임 루프와 저장·로드를 플레이 가능한 단위로 통합 | 미완료 | 핵심 시스템 통합 | 추후 생성 |
+| 5 | 미정 | 팀원이 새 환경에서 Clone 후 실행·검증·콘텐츠 추가 가능 | 미완료 | 협업 및 배포 준비 | `.meta` 정책과 전체 참조 검증 |
 
 ## 현재 완료된 주요 작업
 
@@ -33,12 +34,14 @@
 - Item, Localization, Quest 사이의 교차 참조 검증 추가
 - 비개발 직군용 Inventory CSV 작성 가이드 작성
 - 런타임·Editor C# 빌드 및 실제 CSV 스모크 테스트 통과
+- 기술 획득·반납, 재건도 계산, ES3 저장과 최소 제단 UI 기반 구현
 
 ## 현재 핵심 위험
 
 - `.gitignore`의 `*.meta` 규칙으로 신규 Unity 참조 파일이 팀 저장소에 안전하게 전달되지 않을 수 있다.
 - Inventory CSV 전환의 Unity Test Runner, Play Mode, 기존 세이브 복원 검증이 남아 있다.
 - 구현 변경이 아직 목적별 Commit으로 정리되지 않았다.
+- 유적·제단 콘텐츠 기획과 Unity Test Runner·Play Mode 검증이 남아 있다.
 
 ## 내려보낼 TODO
 
@@ -51,4 +54,5 @@
 
 - GitHub 협업 규약: `DAY.PJT/2026-07-15`
 - Inventory CSV 전환: `DAY.PJT/2026-07-18`
+- 유적 재건 기반 구현: `DAY.PJT/2026-07-22`
 - 지식 기록: `EXP.DATA/개발협업/GitHub`, `EXP.DATA/게임개발/Project-Ruin`
